@@ -12,7 +12,7 @@ pip install selenium
 ```elm
 wget 'https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-linux64.tar.gz' -O driver.tar.gz
 ```
-- install Web Driver
+- Install Web Driver
 ```elm
 tar -zxvf driver.tar.gz 
 ```
