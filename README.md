@@ -1,5 +1,5 @@
 # Blackhost-demo
-selenium bot auto complete
+Selenium bot auto complete
 
 ## **Installation**
 
