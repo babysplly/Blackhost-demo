@@ -5,4 +5,3 @@ $ cp geckodriver /usr/local/bin
 $ wget 'http://download.mozilla.org/?product=firefox-20.0&os=linux&lang=en-US' -O firefox-20.0.tar.bz2
 $ tar -xzvf firefox-20.0.tar.bz2
 $ 
-read 
