@@ -25,7 +25,7 @@ banner = """\u001b[1;31;31m
 ██      ███████ ██   ██  ██████  ██   ██  ██ ██████  ██████
 \u001b[0m \u001b[32m
             -Author by: Splly
-            -Contact:Y2F0Y2htZWlmeW91Y2FuX2FsQHByb3Rvbi5tZQo=
+            -Contact:
  \u001b[1;31;31m """
 print(banner)
 
