@@ -1,6 +1,12 @@
 # Blackhost-demo
 Selenium bot auto complete
 
+<h3>What you might need and how to run the script</h3>
+<ul>
+  <li> You must have <ahref="https://pypi.org/project/selenium/>Selenium</a> installed </li>
+  <li> Firefox </li>
+</ul>
+
 ## **Installation**
 
 - Install Requirements
@@ -27,3 +33,4 @@ sudo cp geckodriver /usr/local/bin
 ```elm
 python3 Bot.py
 ```
+<h3>Read more about <a href="https://www.selenium.dev/documentation/webdriver/getting_started/">Selenium</a></h3>
