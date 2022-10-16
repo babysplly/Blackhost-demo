@@ -3,9 +3,9 @@ Selenium bot auto complete
 
 ## **Installation**
 
-- Install selenium
+- Install Requirements
 ```elm
-pip install selenium
+pip3 install -r requirements.txt
 ```
 
 - Download Web Driver
