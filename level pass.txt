@@ -17,6 +17,6 @@ lvl 15: ({|;i_d6:e6yj(+]
 lvl 16: 4POSO0U7XNVS7E1K             note: (....- .--. --- ... --- ----- ..- --... -..- -. ...- ... --... . .---- -.-) | morse
 lvl 17: password                     note: 5f4dcc3b5aa765d61d8327deb882cf99 (md5)
 lvl 18: 5*8,"f48)_dvzj8L             note: method="post" action="?id=hgm&lvl=19"
-lvl 19: https://www.blackhost.xyz 
-lvl 20: 36.85.109.218                note: 36.85.109.218(https://ipleak.net/*ip)
+lvl 19: www.blackhost.xyz 
+lvl 20: 2.238.145.99                note: 2.238.145.99  (https://ipleak.net/*ip)
 lvl 21: user: admin pass:' or '1'='1            note: xparh ijection
