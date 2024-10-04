@@ -13,7 +13,10 @@ Selenium bot auto complete
 ```elm
 pip3 install -r requirements.txt
 ```
-
+- Install Selenium with pip (In case requirement.txt oudated)
+```elm
+pip install selenium
+```
 - Download Web Driver
 ```elm
 wget 'https://github.com/mozilla/geckodriver/releases/download/v0.32.0/geckodriver-v0.32.0-linux64.tar.gz' -O driver.tar.gz
